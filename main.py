@@ -7,5 +7,9 @@ def main():
     return manipulation(data)
 
 
+<<<<<<< HEAD
+
+=======
 if __name__ == '__main__':
     main()
+>>>>>>> parent of d78f21e (Revert "develop project")
