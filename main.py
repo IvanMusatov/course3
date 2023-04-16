@@ -6,6 +6,3 @@ def main():
     data = sorted_state_executed(data)
     return manipulation(data)
 
-
-if __name__ == '__main__':
-    main()
