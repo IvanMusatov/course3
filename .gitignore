@@ -1,0 +1,4 @@
+/venv/
+operations.json
+test.json
+/.pytest_cache/
