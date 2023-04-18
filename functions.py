@@ -48,4 +48,3 @@ def manipulation(data):
             print(item.get("operationAmount")["amount"], item.get("operationAmount")["currency"]["name"])
 
 
-
